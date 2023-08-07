@@ -20,7 +20,7 @@ To run this project, you need to have Python installed, along with the following
 ## Usage
 
 1. Clone the repository or download the `main.py` file.
-2. Ensure you have the required libraries installed by running: `pip install matplotlib`.
+2. Ensure you have the required libraries installed by running: `pip install -r requirements.txt`.
 3. Execute the script by running: `python main.py`.
 4. The script will simulate the ecosystem dynamics and generate a plot showing the changes in the prey and predator populations over time.
 
