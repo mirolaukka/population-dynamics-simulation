@@ -3,7 +3,7 @@
 This project simulates the dynamics of a predator-prey ecosystem over a specified number of time steps. The ecosystem consists of two populations: prey and predator. The simulation tracks the changes in these populations over time based on their growth rates and interactions.
 
 
-<img src="sir_simulation.gif" alt="SIR Model Simulation" width="400">
+<img src="plot.png" alt="Ecosystem Simulation Graph" width="400">
 
 
 
